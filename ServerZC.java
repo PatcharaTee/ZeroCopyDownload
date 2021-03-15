@@ -53,8 +53,8 @@ public class ServerZC {
 
 class ServerConfig {
 
-    private final int port = 6666;
-    private final String serverFolder = "C:/Users/Admin/Desktop/APP/FTPTestPath/ServerFolder";
+    private final int port = 9000;
+    private final String serverFolder = "//change to your dir";
 
     public String getServerFolder() {
         return serverFolder;
