@@ -119,9 +119,9 @@ public class ClientZC {
 
 class ClientConfig {
 
-    private final int port = 20;
+    private final int port = 9000;
     private final String server = "127.0.0.1";
-    private final String clientFolder = "C:/Users/Admin/Desktop/APP/FTPTestPath/ClientFolder";
+    private final String clientFolder = "//change to your dir";
 
     public int getPort() {
         return port;
